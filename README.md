@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saxenapalak1234&label=Profile%20views&color=0e75b6&style=flat" alt="saxenapalak1234" /> </p>
 
-- 🔭 I’m currently working on **FaceBook clone**
+- 🔭 I’m currently working on **Full Stack Chat App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **nodejs, JavaScript, Bootstrap, Java**
 
